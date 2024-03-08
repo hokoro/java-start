@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2be75d4-0c29-4445-80ca-3d5cba34c1de" name="Changes" comment="">
+    <list default="true" id="f2be75d4-0c29-4445-80ca-3d5cba34c1de" name="Changes" comment="메서드 공부 내용">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2d6P8kZc5dmghmN9zrxzOoXwcBb" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
@@ -36,25 +39,46 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassStart2.executor": "Run",
+    "Application.ClassStart3.executor": "Run",
+    "Application.ClassStart4.executor": "Run",
+    "Application.ClassStart5.executor": "Run",
+    "Application.MovieReviewMain.executor": "Run",
+    "Application.MovieReviewMain2.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hokor/IdeaProjects/java-start",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="class1.ex" />
+      <recent name="class1" />
       <recent name="method.overloading" />
       <recent name="method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodEx4">
-    <configuration name="MethodEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx1" />
+  <component name="RunManager" selected="Application.ProductOrderMain">
+    <configuration name="ClassStart4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
+    <configuration name="ClassStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ClassStart5" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3" />
+    <configuration name="MovieReviewMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx4" />
+    <configuration name="MovieReviewMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ex.MovieReviewMain2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverLoading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.overloading.OverLoading2" />
+    <configuration name="ProductOrderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.ex.ProductOrderMain" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.overloading.*" />
+          <option name="PATTERN" value="class1.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +140,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodEx4" />
-        <item itemvalue="Application.MethodEx3" />
-        <item itemvalue="Application.MethodEx2" />
-        <item itemvalue="Application.MethodEx1" />
-        <item itemvalue="Application.OverLoading2" />
+        <item itemvalue="Application.ProductOrderMain" />
+        <item itemvalue="Application.MovieReviewMain2" />
+        <item itemvalue="Application.MovieReviewMain" />
+        <item itemvalue="Application.ClassStart5" />
+        <item itemvalue="Application.ClassStart4" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-5720f15e" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -132,7 +163,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709325403294</updated>
+      <workItem from="1709519910580" duration="630000" />
+      <workItem from="1709540946758" duration="147000" />
+      <workItem from="1709877676174" duration="2946000" />
+      <workItem from="1709880859922" duration="4921000" />
     </task>
+    <task id="LOCAL-00001" summary="메서드 공부 내용">
+      <created>1709443949187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709443949187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="메서드 공부 내용" />
+    <option name="LAST_COMMIT_MESSAGE" value="메서드 공부 내용" />
   </component>
 </project>
