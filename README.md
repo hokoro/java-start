@@ -36,3 +36,7 @@
 
 ### String
 - [String](https://velog.io/@hokoro/Java-String)
+
+### Primitive Type Reference Type
+- [PTRT](https://velog.io/@hokoro/Java-PTRT)
+- [PTRT.ex](https://velog.io/@hokoro/Java-PTRT.ex)
