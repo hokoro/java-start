@@ -40,3 +40,7 @@
 ### Primitive Type Reference Type
 - [PTRT](https://velog.io/@hokoro/Java-PTRT)
 - [PTRT.ex](https://velog.io/@hokoro/Java-PTRT.ex)
+
+### Procedural Programming vs Object Oriented Programming 
+- [OOP](https://velog.io/@hokoro/Java-Object-Oriented-Programming)
+- [OOP.ex](https://velog.io/@hokoro/Java-Object-Oriented-Programming.ex)
