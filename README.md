@@ -44,3 +44,7 @@
 ### Procedural Programming vs Object Oriented Programming 
 - [OOP](https://velog.io/@hokoro/Java-Object-Oriented-Programming)
 - [OOP.ex](https://velog.io/@hokoro/Java-Object-Oriented-Programming.ex)
+
+### construct
+- [construct](https://velog.io/@hokoro/Java-Construct)
+- [construct.ex](https://velog.io/@hokoro/Java-Construct.ex)
